@@ -1,0 +1,25 @@
+{
+  "name": "spore-ui-mixins",
+  "version": "0.0.1",
+  "description": "less 工具函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SporeUI/spore-ui-mixins.git"
+  },
+  "author": "echochi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SporeUI/spore-ui-mixins/issues"
+  },
+  "files": [
+    "src",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/SporeUI/spore-ui-mixins#readme"
+}
